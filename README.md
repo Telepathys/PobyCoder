@@ -3,6 +3,7 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Full%20Stack%20Developer&fontAlign=50&fontSize=40&desc=PobyCoder&descAlign=50&descAlignY=70&theme=radical&height=180)
 <br><br>
 <h3 align="center"><b>🔥 Stats 🔥</b></h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PobyCoder&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPobyCoder%2Fhit-counter&count_bg=%23F332AD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
