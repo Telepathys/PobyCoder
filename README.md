@@ -1,6 +1,8 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Full%20Stack%20Developer&fontAlign=50&fontSize=40&desc=PobyCoder&descAlign=50&descAlignY=70&theme=radical&height=180)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PobyCoder&show_icons=true&theme=radical)
+<div align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PobyCoder&show_icons=true&theme=radical)
+</div>
 <h3 align="center"><b>🛠 Backend Tech Stack 🛠</b></h3>
 <p align="center">
     <img src="https://img.shields.io/badge/JAVA-008FC7?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
