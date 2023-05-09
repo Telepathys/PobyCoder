@@ -2,7 +2,7 @@
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Game%20Developer&fontAlign=50&fontSize=40&desc=PobyCoder&descAlign=50&descAlignY=70&theme=radical&height=180)
 <br><br>
-<h3 align="center"><b>🔥 Stats! 🔥</b></h3>
+<h3 align="center"><b>🔥 Stats 🔥</b></h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PobyCoder&show_icons=true&theme=radical)
 
